@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TaskJson</string>
+    <string name="item1">Расписание</string>
+    <string name="item2">О приложении</string>
+    <string name="hint_search">Поиск</string>
+</resources>
